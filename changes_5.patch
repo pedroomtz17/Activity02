@@ -1,0 +1,14 @@
+diff --git a/A/README.md b/README.md
+index 39cf7e8..2d50d54 100644
+--- a/README.md
++++ b/Activity_5/README.md
+@@ -8,6 +8,9 @@ all.
+ Copyright 1993,1998,2014 Toyoda Masashi (mtoyoda@acm.org)
+ 
+ ![](demo.gif)
++
++## _Continental_
++
+ ## Our values
+ ## Trust:
+ We earn the trust we give

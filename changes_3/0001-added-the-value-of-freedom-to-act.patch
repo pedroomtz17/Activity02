@@ -1,0 +1,26 @@
+From 170860576f11f9e3beafff6fdd0e066517d92111 Mon Sep 17 00:00:00 2001
+From: Pedro Martinez Alvarez <ing.pedro.m.a@gmail.com>
+Date: Wed, 28 Sep 2022 16:04:06 -0700
+Subject: [PATCH] added the value of freedom to act'
+
+---
+ README.md | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 072af32..fc1568f 100644
+--- a/README.md
++++ b/README.md
+@@ -12,4 +12,6 @@ Copyright 1993,1998,2014 Toyoda Masashi (mtoyoda@acm.org)
+ ## Trust:
+ We earn the trust we give
+ ## Passion to Win:
+-we have the passion to win
+\ No newline at end of file
++we have the passion to win
++## Freedom To Act: 
++Freedom enables us to grow in responsibility.
+\ No newline at end of file
+-- 
+2.25.1
+
